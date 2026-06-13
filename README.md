@@ -16,3 +16,11 @@ This project leverages historical environmental datasets from the Central Pollut
 
 ## 🚀 Recommended Actionable Solutions
 Based on localized data drill-downs, generalized resource allocation across the river basin is inefficient. Remediation infrastructures must prioritize centralized Sewage Treatment Plants (STPs) at the 4 major drainage bottlenecks: Gazipur Drain (Agra Canal), Shahdara Drain, Najafgarh Drain Confluence, and Okhla Barrage Zone.
+
+---
+## Dashboard
+#### Dashboard 
+<img src="https://github.com/Sourabh3024/Yamuna-Water-Quality-Status-Report-/blob/ac105270ad86345a6c3bdce0b5bdb573ab55609f/Dashboard.jpg" width="600">
+
+#### Summary
+<img src="https://github.com/Sourabh3024/Yamuna-Water-Quality-Status-Report-/blob/ac105270ad86345a6c3bdce0b5bdb573ab55609f/Summary.jpg" width="600">
